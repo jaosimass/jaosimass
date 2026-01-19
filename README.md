@@ -1,4 +1,4 @@
-## Hi there 👋
+## Meu nome é João Vitor, curso Ciência da Computação na UNIFG, estou atualmente no 4° período e tenho 19 anos. Estou buscando me tornar um profissional habilidoso e completo! 
 
 <!--
 **jaosimass/jaosimass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
