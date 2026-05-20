@@ -58,8 +58,6 @@ UI/UX prototype designed in Figma focused on preventing financial scams and impr
 
 # 📫 Contact
 
-# 📫 Contact
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/simassjao)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaosimass)
